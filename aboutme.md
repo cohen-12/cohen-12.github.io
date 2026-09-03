@@ -1,16 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I'm in E-Textiles
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm Yasha, and since I was a few years old, I've loved playing with legos. I love having a vision for what may seem like a pile of bricks, and executing that vision until that pile has become something undeniably awesome. In math and physics problems, I've found the same love for breaking down my vision into logical steps and discovering truths about the universe. Above all, I hope to put the knowledge this brings me to use in the field of engineering, and this takes me directly to why I'm in E-textiles. In this class, I'll have my first college experience going from parts, code, math, and models to a finished product, and nothing could be more exciting than that to me. 
