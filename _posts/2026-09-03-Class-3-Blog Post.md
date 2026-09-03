@@ -13,5 +13,11 @@ author: Yasha Cohen
 I'm Yasha Cohen, and I'm a freshman. For the last couple years, I've been developing a significant interest in physics, math, and engineering. I want to major in physics and I hope to have a career in Engineering. 
 ### Experience
 Where I have the most experience for this course is in circuits. I have experience modelling AC and DC cricuits with resistors, capacitors, and inductors, and then applying Kirchoff's laws to yield equations that govern the behavior of the circuit. 
-I have little to no experience programming. I once attended a capture the flag competition and found one flag. 
+
+
+I have  no experience programming. 
+
+
 I have no experience sewing. 
+
+
