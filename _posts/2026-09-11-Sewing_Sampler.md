@@ -20,9 +20,9 @@ A couple tips, if you're ever in the same situation:
 3. When you sew a stitch, find a repeatable, comfortable motion. When I started coral stitch, my right hand was cramping because I was holding the needle from the very end when I needed to hold it higher up for a moment to get the needle through the fabric and then right back up. Once I adjusted, it was a breeze.
 4. If sewing alone is boring, find a podcast, show, or movie to play just for noise. Just the fact that you're hearing something can be enough to go from boredom to entertainment. 
 Without further ado, here is my sampler:
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Sampler Front](https://beautifuljekyll.com/assets/img/Sampler_Front.jpg)
 
-It can also be centered!
+And the back:
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Sampler Back](https://beautifuljekyll.com/assets/img/Sampler_Back.jpg)
 
