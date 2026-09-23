@@ -23,5 +23,5 @@ I had to figure out how to get some code that almost worked to actually work. My
 actually run! It took embarassingly long but the struggle taught me a lot!
 
 
-![arduino](https://cohen-12.github.io/assets/img/4210.jpg)
+![arduino](https://cohen-12.github.io/assets/img/4120.jpg)
 
