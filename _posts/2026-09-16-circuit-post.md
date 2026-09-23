@@ -18,10 +18,10 @@ I'm definitely glad I persevered. Eventually, I found a solution to my first big
 sent to the arduino, where the assignment is to light up lights on said arduino). What I found out was that I had an extra curly bracket, so the code was interpreted
 by the computer as ending way earlier than it should, and this threw me an error for a while. Once I caught it though, I was so relieved.
 
-##The actual coding struggle
+## The actual coding struggle
 I had to figure out how to get some code that almost worked to actually work. My big breakthrough was adding a double delay only to a certain else if clause that made my code
 actually run! It took embarassingly long but the struggle taught me a lot!
 
 
-![arduino](https://cohen0-12.github.io/assets/img/4210.jpg)
+![arduino](https://cohen-12.github.io/assets/img/4210.jpg)
 
