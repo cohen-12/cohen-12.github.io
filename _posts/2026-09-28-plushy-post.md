@@ -21,5 +21,13 @@ connected to the rest of the circuit. Once I fixed this, executing the rest of m
 segments of conductive thread, as I started by cutting long ones and then spending 10 minutes untangling them, and it would have been faster to just cut short pieces. 
 
 
+Exhibit A:
 ![prototype](https://cohen-12.github.io/assets/img/plushy_paper_prototype.jpg){: .mx-auto.d-block :}
+
+Exhibit B:
+![prototype](https://cohen-12.github.io/assets/img/plushy_alligator_prototype.jpg){: .mx-auto.d-block :}
+
+The plushy itself:
+![plushy](https://cohen-12.github.io/assets/img/plushy_front.jpg){: .mx-auto.d-block :}
+![plushy](https://cohen-12.github.io/assets/img/plushy_back.jpg){: .mx-auto.d-block :}
 
