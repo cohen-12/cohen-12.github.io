@@ -15,5 +15,5 @@ My project this time was a wristband made primarily of felt. The wristband had t
 
 ![Wristband_right_side](https://cohen-12.github.io/assets/img/wristband-right.jpg){: .mx-auto.d-block :}
 ![Wristband_wrong_side](https://cohen-12.github.io/assets/img/wristband-wrong.jpg){: .mx-auto.d-block :}
-![Wristband_alligators](https://cohen-12.github.io/assets/img/wristband-alligators.jpg){: .mx-auto.d-block :}
+![Wristband_alligators](https://cohen-12.github.io/assets/img/Wristband-alligators.jpg){: .mx-auto.d-block :}
 ![Wristband_paper](https://cohen-12.github.io/assets/img/wristband-paper.jpg){: .mx-auto.d-block :}
