@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Responsive buttons
-subtitle: pixel is cute! 
+subtitle: Pixel is cute! (lk niche balledge required)
 tags: [test]
 comments: true
 mathjax: true
-author: Yasha COhen
+author: Yasha Cohen
 ---
 
 **Responsive Buttons**
