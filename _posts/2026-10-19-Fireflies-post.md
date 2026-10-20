@@ -16,4 +16,4 @@ the last assignment was for a firefly that is always on, but whose brightness ra
 with this assignment was checking that none of my variable names across previous files were the same (they were). So, when I pasted different bits of code in, 
 they interacted with each other unintentionally. Once I realized, I changed my brightness variable to brightness1, brightness2, and brightness3.
 
-![arduino](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![arduino](https://cohen-12.github.io/assets/img/arduino_fireflies.jpg){: .mx-auto.d-block :}
