@@ -17,4 +17,4 @@ is going to be a specially decorated piece that lights up when a button is press
 
 
 ![title_slide](https://cohen-12.github.io/assets/img/ETextiles_project_proposal.jpg){: .mx-auto.d-block :}
-![sketch_slide](https://cohen-12.github.io/assets/img/ETextiles_project_sketches.jpg){: .mx-auto.d-block :}
+![sketch_slide](https://cohen-12.github.io/assets/img/Etextiles_project_sketches.jpg){: .mx-auto.d-block :}
