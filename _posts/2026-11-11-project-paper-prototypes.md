@@ -8,6 +8,7 @@ author: Yasha Cohen
 ---
 
 **A Riverbank Adventure**
+
 This collection of pieces represents a vivid scene from a walk by the kokosing. In this scene, a frog on a lilypad is captivated by a butterfly's bright colors.
 
 The three pieces are "The Frog", "The Lilypad", and "The Butterfly". 
