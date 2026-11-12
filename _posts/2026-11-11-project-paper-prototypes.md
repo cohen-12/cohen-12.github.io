@@ -24,4 +24,4 @@ frog snaps are pressed into the lilypad snaps, the arduino reads in from the lig
 
 The butterfly is an ornately embroidered piece of fabric with a battery, button, and two LEDs that light up when the button is pressed. 
 
-![butterfly](https://cohen-12.github.io/assets/img/butterfly_paper_protoype.jpg){: .mx-auto.d-block :}
+![butterfly](https://cohen-12.github.io/assets/img/butterfly_paper_prototype.jpg){: .mx-auto.d-block :}
