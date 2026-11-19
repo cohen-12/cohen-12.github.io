@@ -17,9 +17,14 @@ have been worthwhile to just work with more manageable pieces.
 
 Paper prototype:
 
+![project1_paper](https://cohen-12.github.io/assets/img/project1_paper.jpg){: .mx-auto.d-block :}
+
 Alligator clip prototype:
+
+![project1_alligators](https://cohen-12.github.io/assets/img/project1_alligators.jpg){: .mx-auto.d-block :}
 
 Finished butterfly:
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![project1_on](https://cohen-12.github.io/assets/img/project1_on.jpg){: .mx-auto.d-block :}
+![project1_off](https://cohen-12.github.io/assets/img/project1_off.jpg){: .mx-auto.d-block :}
 
